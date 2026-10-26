@@ -59,11 +59,11 @@ Vibe Coding
 * **Web 应用**
   * [GoInterpreter](https://gointerpreter.tech/)：生成式 AI 驱动的口译智能辅导系统
   * [译了么](https://ylm.life/)：面向笔译学习者的在线练习平台
-* **软件**：[SwordfishEdu](https://github.com/xionglingsong/SwordfishEdu)，基于 Swordfish CAT 工具打造的翻译练习与 AI 智能评分平台，结合 ATA 错误分类与 CATTI 扣分制
+* **软件**：[SwordfishEdu](https://github.com/yileme/SwordfishEdu)，基于 Swordfish CAT 工具打造的翻译练习与 AI 智能评分平台，结合 ATA 错误分类与 CATTI 扣分制
 * **微信小程序**：<button class="qr-tip" type="button">译了么（MyTranslate）<span class="qr-tip__pop"><img src="/images/mytranslate-qr.png" alt="译了么小程序二维码" width="150"><span class="qr-tip__caption">微信扫码，使用小程序</span></span></button>，自由译员的接单工作台，从询价、报价、排期，到交付、应收跟踪、分期记账、收入统计，覆盖完整业务闭环
-* **Zotero 插件**：[zotero-chapterize](https://github.com/xionglingsong/zotero-chapterize)，把整本图书 PDF 按章节拆成独立条目，并自动补全 DOI、作者等元数据
-* **Chrome 扩展**：[ODHT](https://github.com/xionglingsong/ODHT)，网页划词查词典，支持 LLM 整句翻译和 Anki 制卡
-* **RSS**：[rss-translation-studies](https://github.com/xionglingsong/rss-translation-studies)，翻译与口译研究期刊的增强 RSS 订阅源
+* **Zotero 插件**：[zotero-chapterize](https://github.com/yileme/zotero-chapterize)，把整本图书 PDF 按章节拆成独立条目，并自动补全 DOI、作者等元数据
+* **Chrome 扩展**：[ODHT](https://github.com/yileme/ODHT)，网页划词查词典，支持 LLM 整句翻译和 Anki 制卡
+* **RSS**：[rss-translation-studies](https://github.com/yileme/rss-translation-studies)，翻译与口译研究期刊的增强 RSS 订阅源
 
 教育经历
 ======
@@ -95,4 +95,4 @@ Vibe Coding
 
 联系方式
 ======
-最快的联系方式是邮件（见左侧边栏），也可以在 [Google Scholar](https://scholar.google.com/citations?user=OBiemt8AAAAJ&hl=en)、[ORCID](https://orcid.org/0009-0009-3856-8260)、[ResearchGate](https://www.researchgate.net/profile/Lingsong-Xiong) 和 [GitHub](https://github.com/xionglingsong) 上找到我。
+最快的联系方式是邮件（见左侧边栏），也可以在 [Google Scholar](https://scholar.google.com/citations?user=OBiemt8AAAAJ&hl=en)、[ORCID](https://orcid.org/0009-0009-3856-8260)、[ResearchGate](https://www.researchgate.net/profile/Lingsong-Xiong) 和 [GitHub](https://github.com/yileme) 上找到我。

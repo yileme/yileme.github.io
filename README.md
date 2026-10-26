@@ -70,18 +70,17 @@ PATH="$HOME/.gem/ruby/2.6.0/bin:$PATH" JEKYLL_NO_BUNDLER_REQUIRE=1 jekyll serve
 
 ## 四、发布上线
 
-1. 在 GitHub 新建仓库，名字用 `你的用户名.github.io`（CV 中 GitHub 用户名为 xionglingsong，对应 `xionglingsong.github.io`），即可得到 `https://用户名.github.io` 的免费网址。
-2. 把本目录推上去（本目录已是初始化好的空 git 仓库）：
+1. 本站仓库为 `yileme/yileme.github.io`，发布地址为 `https://yileme.github.io/`。GitHub Pages 从 `main` 分支根目录构建。
+2. 修改内容后提交并推送到仓库：
 
    ```bash
    git add .
-   git commit -m "Initial academic website"
-   git remote add origin git@github.com:你的用户名/你的用户名.github.io.git
-   git push -u origin main
+   git commit -m "Update academic website"
+   git push origin main
    ```
 
-3. 仓库 Settings → Pages 确认由 GitHub Actions / gh-pages 分支构建（模板自带工作流）。
-4. 如果 GitHub 用户名不是 xionglingsong，记得把 `_config.yml` 里的 `url` 和 `repository` 改成实际地址。
+3. 仓库 Settings → Pages 确认从 `main` 分支根目录发布；推送后可在仓库 Actions 中查看 Pages 部署状态。
+4. 如再次更换 GitHub 用户名，需将仓库改名为 `新用户名.github.io`，并同步更新 `_config.yml` 中的 `url`、`repository` 和 `author.github`。
 
 ## 五、致谢
 

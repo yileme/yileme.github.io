@@ -64,11 +64,11 @@ I build working tools for the problems I study and teach:
 * **Web applications**
   * [GoInterpreter](https://gointerpreter.tech/): an intelligent tutoring system for interpreter training, powered by generative AI
   * [译了么](https://ylm.life/) (*Translated?*): a web-based practice platform for student translators
-* **Software**: [SwordfishEdu](https://github.com/xionglingsong/SwordfishEdu), a translation practice and AI scoring platform built on the Swordfish CAT tool, combining ATA error classification with CATTI-style scoring
+* **Software**: [SwordfishEdu](https://github.com/yileme/SwordfishEdu), a translation practice and AI scoring platform built on the Swordfish CAT tool, combining ATA error classification with CATTI-style scoring
 * **WeChat mini-program**: <button class="qr-tip" type="button">译了么(MyTranslate)<span class="qr-tip__pop"><img src="/images/mytranslate-qr.png" alt="QR code of the 译了么 WeChat mini-program" width="150"><span class="qr-tip__caption">Scan with WeChat to open the mini-program</span></span></button>, a workbench for freelance translators that manages the whole business loop from inquiry, quoting, and task scheduling to delivery, receivables tracking, installment payment recording, and income statistics
-* **Zotero add-on**: [zotero-chapterize](https://github.com/xionglingsong/zotero-chapterize), splits full-book PDFs into chapter-level items with enriched metadata in your Zotero library
-* **Chrome extension**: [ODHT](https://github.com/xionglingsong/ODHT), an online dictionary helper that looks up words and phrases on any webpage, with LLM-powered sentence translation and Anki flashcard creation
-* **RSS**: [rss-translation-studies](https://github.com/xionglingsong/rss-translation-studies), enriched RSS feeds for translation and interpreting studies journals
+* **Zotero add-on**: [zotero-chapterize](https://github.com/yileme/zotero-chapterize), splits full-book PDFs into chapter-level items with enriched metadata in your Zotero library
+* **Chrome extension**: [ODHT](https://github.com/yileme/ODHT), an online dictionary helper that looks up words and phrases on any webpage, with LLM-powered sentence translation and Anki flashcard creation
+* **RSS**: [rss-translation-studies](https://github.com/yileme/rss-translation-studies), enriched RSS feeds for translation and interpreting studies journals
 
 Education
 ======
@@ -100,4 +100,4 @@ Education
 
 Get in touch
 ======
-The quickest way to reach me is by email (see the sidebar). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=OBiemt8AAAAJ&hl=en), [ORCID](https://orcid.org/0009-0009-3856-8260), [ResearchGate](https://www.researchgate.net/profile/Lingsong-Xiong), and [GitHub](https://github.com/xionglingsong).
+The quickest way to reach me is by email (see the sidebar). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=OBiemt8AAAAJ&hl=en), [ORCID](https://orcid.org/0009-0009-3856-8260), [ResearchGate](https://www.researchgate.net/profile/Lingsong-Xiong), and [GitHub](https://github.com/yileme).
